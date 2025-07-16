@@ -9,7 +9,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=simsim-sh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-**A passionate MERN stack developer || DevOps Engineer || Simran Sharma from India**
+**A passionate MERN stack developer || Developer at heart, problem-solver by habit
 
 Email Me 👉 ✉️ **simransharma639586@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
