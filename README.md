@@ -29,7 +29,7 @@ Email Me 👉 ✉️ **simransharma639586@gmail.com** For Collaboration/Project 
 
 
 <!-- Snake Game Repo View -->
-# 🐙 GitHub repo:
+# 📈 My GitHub Activity:
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
