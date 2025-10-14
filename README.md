@@ -8,10 +8,12 @@
 <!-- GitHub Star link -->
 <p align="center">
   <a href="https://github.com/simsim-sh/">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023" style="height:20vh;"/>
+  </a>
 </p>
 
-<img align="right" alt="Coding" width="500" src="https://i.redd.it/n8agw6z2smyb1.gif">
+
+<!-- <img align="right" alt="Coding" width="500" src="https://i.redd.it/n8agw6z2smyb1.gif"> -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=simsim-sh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
