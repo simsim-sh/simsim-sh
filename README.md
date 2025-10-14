@@ -1,8 +1,9 @@
 # 💫 Hi 👋, I'm Simran Sharma   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&width=435&lines=AI+Practitioner+%7C+ML+%26+DL+Explorer;Let's+build+the+future+together+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&width=435&lines=Full+Stack+Developer;Let's+build+the+future+together+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
 
 <!-- GitHub Star link -->
 <p align="center">
