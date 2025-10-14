@@ -1,17 +1,8 @@
 # 💫 Hi 👋, I'm Simran Sharma   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-<!-- <p align="center">
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&width=435&lines=AI+Practitioner+%7C+ML+%26+DL+Explorer;Let's+build+the+future+together+%F0%9F%A4%96" alt="Typing SVG" />
-</p> -->
-<div align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 20px; border-radius: 15px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Modern+Web+Applications+with+MERN;Let's+Build+the+Future+Together+🚀" alt="Typing SVG" />
-  
-  <br/>
-  <p style="color:#00F7FF; font-family: 'Fira Code', monospace; font-size: 18px; margin-top: 10px;">
-    💻 Passionate about JavaScript | React | Node.js | Express | MongoDB
-  </p>
-</div>
-
+</p> 
 
 <!-- GitHub Star link -->
 <p align="center">
