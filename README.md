@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Simran Sharma
+# 💫 Hi 👋, I'm Simran Sharma   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 <!-- GitHub Star link -->
 <p align="center">
